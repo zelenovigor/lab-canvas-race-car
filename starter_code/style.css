@@ -30,9 +30,15 @@ body button {
   box-shadow: 0;
   border-radius: 5px;
   margin-bottom: 20px;
+  position: absolute;
 }
 
 #game-board {
     float: left;
     padding: 20px 0px;
+}
+
+
+canvas{
+  border: 1px solid red;
 }
